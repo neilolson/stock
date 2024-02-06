@@ -1,6 +1,3 @@
-# Author: Ardit Sulce, Automate Everything with Python, Udemy
-# Course URL: https://www.udemy.com/course/automate-everything-with-python/
-
 import requests
 from datetime import datetime
 import time
